@@ -1,0 +1,11 @@
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-DataAccessLayer\bin\Debug\net5.0\WizLib-DataAccessLayer.deps.json
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-DataAccessLayer\bin\Debug\net5.0\WizLib-DataAccessLayer.dll
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-DataAccessLayer\bin\Debug\net5.0\ref\WizLib-DataAccessLayer.dll
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-DataAccessLayer\bin\Debug\net5.0\WizLib-DataAccessLayer.pdb
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-DataAccessLayer\obj\Debug\net5.0\WizLib-DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-DataAccessLayer\obj\Debug\net5.0\WizLib-DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-DataAccessLayer\obj\Debug\net5.0\WizLib-DataAccessLayer.AssemblyInfo.cs
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-DataAccessLayer\obj\Debug\net5.0\WizLib-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-DataAccessLayer\obj\Debug\net5.0\WizLib-DataAccessLayer.dll
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-DataAccessLayer\obj\Debug\net5.0\ref\WizLib-DataAccessLayer.dll
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-DataAccessLayer\obj\Debug\net5.0\WizLib-DataAccessLayer.pdb

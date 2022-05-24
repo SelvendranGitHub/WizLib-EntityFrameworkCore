@@ -1,0 +1,11 @@
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-Models\bin\Debug\net5.0\WizLib-Models.deps.json
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-Models\bin\Debug\net5.0\WizLib-Models.dll
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-Models\bin\Debug\net5.0\ref\WizLib-Models.dll
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-Models\bin\Debug\net5.0\WizLib-Models.pdb
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-Models\obj\Debug\net5.0\WizLib-Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-Models\obj\Debug\net5.0\WizLib-Models.AssemblyInfoInputs.cache
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-Models\obj\Debug\net5.0\WizLib-Models.AssemblyInfo.cs
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-Models\obj\Debug\net5.0\WizLib-Models.csproj.CoreCompileInputs.cache
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-Models\obj\Debug\net5.0\WizLib-Models.dll
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-Models\obj\Debug\net5.0\ref\WizLib-Models.dll
+C:\Users\sela\Desktop\Desktop\My Data\Projects Learning\WizLib-EntityFrameworkCore\WizLib-Models\obj\Debug\net5.0\WizLib-Models.pdb
